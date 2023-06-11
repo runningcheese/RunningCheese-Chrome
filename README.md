@@ -11,7 +11,8 @@ RunningCheese Chrome 是一款提高 Chrome 易用性的定制版浏览器，可
 3、适配国人使用习惯，已经配置好了大多数功能，比如网盘加速、去广告、翻译、下载、代理等等。
 
 
-[!https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Chrome/Images/down.jpg](https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Chrome/Images/down.jpg)
+![rc chrome](https://gcore.jsdelivr.net/gh/runningcheese/RunningCheese-Chrome/Images/down.jpg)
+
 
 ## 下载使用
 
